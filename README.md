@@ -5,4 +5,4 @@ The team makes a website to keep track of where things are and when things are o
 
 =====================
 
-[Norbots Team 7372](http://www.norbots7372ftc.weebly.com/) - Competitive FIRST Robotics Team - FTC
+[Norbots Team 7372](http://www.ftc7372.tpaarobotics.com/) - Competitive FIRST Robotics Team - FTC
